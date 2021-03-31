@@ -14,7 +14,7 @@ get==2018.11.19
 idna==2.7
 itsdangerous==1.1.0
 Jinja2==2.10
-lxml==4.2.5
+lxml==4.6.3
 Mako==1.0.7
 MarkupSafe==1.1.0
 oic==0.14.0

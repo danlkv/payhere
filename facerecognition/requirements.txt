@@ -12,7 +12,7 @@ jsonschema==2.6.0
 nulltype==2.3.1
 numpy==1.15.4
 options==1.4.8
-protobuf==3.6.1
+protobuf==3.18.3
 PyAudio==0.2.11
 requests==2.20.1
 six==1.11.0
